@@ -1,50 +1,59 @@
 class Solution {
 public:
-    
-    void markThem(vector<vector<char>>& prison, int r, int c, int m, int n) {
+    const int UNGUARDED = 0;
+    const int GUARDED = 1;
+    const int GUARD = 2;
+    const int WALL = 3;
 
-		// marking Unguarded Cell in the Right as Guarded until a Guarded or Walled Cell is found.
-        for (int j=c+1; j<n; j++) {
-			// breaking if wall is found as guard cannot see past that wall.
-			// breaking if cell has a guard as that guard will mark the rest of cells.
-            if (prison[r][j] == 'w' or prison[r][j] == 'g')    break;
-            prison[r][j] = 'd'; // marking unguarded cell as guarded.
+    void markguarded(int row, int col, vector<vector<int>>& grid) {
+        // Traverse upwards
+        for (int r = row - 1; r >= 0; r--) {
+            if (grid[r][col] == WALL || grid[r][col] == GUARD) break;
+            grid[r][col] = GUARDED;
         }
-		
-		// marking Unguarded Cell in the Left as Guarded until a Guarded or Walled Cell is found.
-        for (int j=c-1; j>=0; j--) {
-            if (prison[r][j] == 'w' or prison[r][j] == 'g')    break;
-            prison[r][j] = 'd';
+        // Traverse downwards
+        for (int r = row + 1; r < grid.size(); r++) {
+            if (grid[r][col] == WALL || grid[r][col] == GUARD) break;
+            grid[r][col] = GUARDED;
         }
-        
-		// marking Unguarded Cell in the Downward as Guarded until a Guarded or Walled Cell is found.
-        for (int i=r+1; i<m; i++) {
-            if (prison[i][c] == 'w' or prison[i][c] == 'g')    break;
-            prison[i][c] = 'd';
+        // Traverse leftwards
+        for (int c = col - 1; c >= 0; c--) {
+            if (grid[row][c] == WALL || grid[row][c] == GUARD) break;
+            grid[row][c] = GUARDED;
         }
-		
-		// marking Unguarded Cell Upward as Guarded until a Guarded or Walled Cell is found.
-        for (int i=r-1; i>=0; i--) {
-            if (prison[i][c] == 'w' or prison[i][c] == 'g')    break;
-            prison[i][c] = 'd';
+        // Traverse rightwards
+        for (int c = col + 1; c < grid[row].size(); c++) {
+            if (grid[row][c] == WALL || grid[row][c] == GUARD) break;
+            grid[row][c] = GUARDED;
         }
     }
-    
-    int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls) {
-        
-        int res = 0;
-        vector<vector<char>> prison(m, vector<char>(n, 'u'));
-        
-        for (auto& g : guards)  prison[g[0]][g[1]] = 'g';
-        for (auto& w : walls)    prison[w[0]][w[1]] = 'w';
-        
-		for (auto& g : guards)
-             markThem(prison, g[0], g[1], m, n);
-        
-        for (auto& row : prison)
-            for (auto& cell : row)
-                if (cell == 'u') res++;
 
-        return res;
+    int countUnguarded(int m, int n, vector<vector<int>>& guards,
+                       vector<vector<int>>& walls) {
+        vector<vector<int>> grid(m, vector<int>(n, UNGUARDED));
+
+        // Mark guards' positions
+        for (const auto& guard : guards) {
+            grid[guard[0]][guard[1]] = GUARD;
+        }
+
+        // Mark walls' positions
+        for (const auto& wall : walls) {
+            grid[wall[0]][wall[1]] = WALL;
+        }
+
+        // Mark cells as guarded by traversing from each guard
+        for (const auto& guard : guards) {
+            markguarded(guard[0], guard[1], grid);
+        }
+
+        // Count unguarded cells
+        int count = 0;
+        for (const auto& row : grid) {
+            for (const auto& cell : row) {
+                if (cell == UNGUARDED) count++;
+            }
+        }
+        return count;
     }
 };
