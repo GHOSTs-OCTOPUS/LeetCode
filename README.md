@@ -6,6 +6,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0322-coin-change) |
 | [0854-making-a-large-island](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0854-making-a-large-island) |
+| [1364-tuple-with-same-product](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -54,6 +55,7 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
@@ -81,6 +83,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [2685-first-completely-painted-row-or-column](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
 |  |
