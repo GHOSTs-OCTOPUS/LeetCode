@@ -17,6 +17,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3447-clear-digits) |
 ## Backtracking
@@ -188,6 +190,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
