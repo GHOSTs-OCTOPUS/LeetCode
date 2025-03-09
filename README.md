@@ -27,6 +27,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -209,4 +210,5 @@
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
