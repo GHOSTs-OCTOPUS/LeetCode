@@ -14,6 +14,7 @@
 | [1364-tuple-with-same-product](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2681-put-marbles-in-bags](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -269,6 +271,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0768-partition-labels) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -291,6 +294,7 @@
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2690-house-robber-iv) |
