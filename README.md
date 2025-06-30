@@ -7,6 +7,7 @@
 | [0322-coin-change](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0854-making-a-large-island](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -100,6 +101,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2681-put-marbles-in-bags](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -154,6 +157,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -284,6 +288,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2478-longest-nice-subarray) |
