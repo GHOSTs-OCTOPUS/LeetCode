@@ -22,6 +22,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -169,6 +170,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -214,6 +216,7 @@
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
 |  |
 | ------- |
