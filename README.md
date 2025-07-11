@@ -32,6 +32,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -143,6 +144,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2479-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -179,6 +181,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2479-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -244,6 +247,7 @@
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2479-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -344,6 +348,7 @@
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Enumeration
 |  |
