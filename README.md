@@ -211,6 +211,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -368,4 +369,8 @@
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
