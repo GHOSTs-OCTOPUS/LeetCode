@@ -28,6 +28,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -166,6 +167,7 @@
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -355,6 +357,7 @@
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Enumeration
