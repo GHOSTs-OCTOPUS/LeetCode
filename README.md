@@ -62,6 +62,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -294,6 +296,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Tree
 |  |
 | ------- |
