@@ -196,6 +196,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
 |  |
