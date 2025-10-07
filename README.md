@@ -29,6 +29,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -258,6 +259,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -396,6 +398,7 @@
 | [0768-partition-labels](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0768-partition-labels) |
 | [1448-maximum-69-number](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -464,6 +467,7 @@
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1612-avoid-flood-in-the-city](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -509,6 +513,7 @@
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2429-design-a-food-rating-system) |
