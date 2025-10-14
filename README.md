@@ -90,6 +90,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3643-zero-array-transformation-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
