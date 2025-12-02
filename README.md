@@ -101,6 +101,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -312,6 +313,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -380,6 +382,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -654,6 +657,7 @@
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Game Theory
 |  |
 | ------- |
