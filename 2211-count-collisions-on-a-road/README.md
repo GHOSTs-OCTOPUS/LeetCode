@@ -1,6 +1,6 @@
-<h2><a href="https://leetcode.com/problems/count-collisions-on-a-road/">2211. Count Collisions on a Road</a></h2><h3>Medium</h3><hr><div><p>There are <code>n</code> cars on an infinitely long road. The cars are numbered from <code>0</code> to <code>n - 1</code> from left to right and each car is present at a <strong>unique</strong> point.</p>
+<h2><a href="https://leetcode.com/problems/count-collisions-on-a-road">2317. Count Collisions on a Road</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> cars on an infinitely long road. The cars are numbered from <code>0</code> to <code>n - 1</code> from left to right and each car is present at a <strong>unique</strong> point.</p>
 
-<p>You are given a <strong>0-indexed</strong> string <code>directions</code> of length <code>n</code>. <code>directions[i]</code> can be either <code>'L'</code>, <code>'R'</code>, or <code>'S'</code> denoting whether the <code>i<sup>th</sup></code> car is moving towards the <strong>left</strong>, towards the <strong>right</strong>, or <strong>staying</strong> at its current point respectively. Each moving car has the <strong>same speed</strong>.</p>
+<p>You are given a <strong>0-indexed</strong> string <code>directions</code> of length <code>n</code>. <code>directions[i]</code> can be either <code>&#39;L&#39;</code>, <code>&#39;R&#39;</code>, or <code>&#39;S&#39;</code> denoting whether the <code>i<sup>th</sup></code> car is moving towards the <strong>left</strong>, towards the <strong>right</strong>, or <strong>staying</strong> at its current point respectively. Each moving car has the <strong>same speed</strong>.</p>
 
 <p>The number of collisions can be calculated as follows:</p>
 
@@ -16,7 +16,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> directions = "RLRSLL"
+<pre>
+<strong>Input:</strong> directions = &quot;RLRSLL&quot;
 <strong>Output:</strong> 5
 <strong>Explanation:</strong>
 The collisions that will happen on the road are:
@@ -29,7 +30,8 @@ Thus, the total number of collisions that will happen on the road is 5.
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> directions = "LLRR"
+<pre>
+<strong>Input:</strong> directions = &quot;LLRR&quot;
 <strong>Output:</strong> 0
 <strong>Explanation:</strong>
 No cars will collide with each other. Thus, the total number of collisions that will happen on the road is 0.</pre>
@@ -39,6 +41,5 @@ No cars will collide with each other. Thus, the total number of collisions that 
 
 <ul>
 	<li><code>1 &lt;= directions.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>directions[i]</code> is either <code>'L'</code>, <code>'R'</code>, or <code>'S'</code>.</li>
+	<li><code>directions[i]</code> is either <code>&#39;L&#39;</code>, <code>&#39;R&#39;</code>, or <code>&#39;S&#39;</code>.</li>
 </ul>
-</div>
