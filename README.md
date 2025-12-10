@@ -98,6 +98,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -393,6 +394,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -661,6 +663,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Ordered Set
 |  |
 | ------- |
@@ -686,6 +689,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
