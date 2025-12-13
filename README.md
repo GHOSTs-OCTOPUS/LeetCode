@@ -103,6 +103,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -249,6 +250,7 @@
 | [3433-count-mentions-per-user](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -326,6 +328,7 @@
 | [3531-count-covered-buildings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3583-count-special-triplets](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -363,6 +366,7 @@
 | [3447-clear-digits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3606-coupon-code-validator](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
