@@ -19,6 +19,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -350,6 +351,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0768-partition-labels) |
+| [0944-delete-columns-to-make-sorted](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1160-letter-tile-possibilities) |
