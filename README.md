@@ -62,6 +62,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2402-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -254,6 +255,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2402-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -339,6 +341,7 @@
 | [2107-find-unique-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2402-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -491,6 +494,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2402-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -658,6 +662,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2402-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2681-put-marbles-in-bags) |
