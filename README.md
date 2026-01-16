@@ -94,6 +94,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -383,6 +384,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -728,6 +730,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
