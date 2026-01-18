@@ -51,6 +51,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-largest-magic-square](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -221,6 +222,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1628-count-submatrices-with-all-ones](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -506,6 +508,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1895-largest-magic-square](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2529-range-product-queries-of-powers) |
