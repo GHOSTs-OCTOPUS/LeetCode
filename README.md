@@ -125,6 +125,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -395,6 +396,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3583-count-special-triplets](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3583-count-special-triplets) |
@@ -553,6 +555,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3433-count-mentions-per-user](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -734,6 +737,7 @@
 | [2429-design-a-food-rating-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -765,6 +769,7 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Trie
 |  |
 | ------- |
@@ -792,6 +797,7 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
@@ -830,4 +836,8 @@
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
