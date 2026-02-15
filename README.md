@@ -427,6 +427,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0768-partition-labels) |
@@ -473,6 +474,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0342-power-of-four) |
@@ -566,6 +568,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -714,6 +717,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0342-power-of-four) |
 | [0756-pyramid-transition-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0756-pyramid-transition-matrix) |
