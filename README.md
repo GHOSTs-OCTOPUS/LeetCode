@@ -589,6 +589,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -722,6 +723,7 @@
 | [0190-reverse-bits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
