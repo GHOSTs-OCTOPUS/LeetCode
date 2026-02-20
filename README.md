@@ -293,6 +293,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0761-special-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -431,6 +432,7 @@
 | [0696-count-binary-substrings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0768-partition-labels) |
 | [0944-delete-columns-to-make-sorted](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -651,6 +653,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
