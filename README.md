@@ -731,6 +731,7 @@
 | [0401-binary-watch](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [0868-binary-gap](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
