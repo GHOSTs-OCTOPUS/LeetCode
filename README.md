@@ -353,6 +353,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2054-two-best-non-overlapping-events](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -462,6 +463,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -700,6 +702,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
