@@ -115,6 +115,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -528,6 +529,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -643,6 +645,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -732,6 +735,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2690-house-robber-iv) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3454-separate-squares-ii) |
@@ -803,6 +807,7 @@
 | [2429-design-a-food-rating-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Enumeration
