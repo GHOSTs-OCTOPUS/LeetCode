@@ -94,6 +94,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2573-find-the-string-with-lcp](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -257,6 +258,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2685-first-completely-painted-row-or-column](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2906-construct-product-matrix) |
@@ -388,6 +390,7 @@
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -504,6 +507,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -676,6 +680,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2573-find-the-string-with-lcp](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -968,4 +973,8 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
