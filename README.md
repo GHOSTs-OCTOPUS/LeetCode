@@ -596,6 +596,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2069-walking-robot-simulation-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Data Stream
 |  |
@@ -652,6 +653,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2069-walking-robot-simulation-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2211-count-collisions-on-a-road) |
