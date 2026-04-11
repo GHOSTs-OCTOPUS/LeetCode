@@ -176,6 +176,7 @@
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -475,6 +476,7 @@
 | [3625-count-number-of-trapezoids-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
