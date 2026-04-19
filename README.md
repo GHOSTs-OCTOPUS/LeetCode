@@ -59,6 +59,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1895-largest-magic-square) |
@@ -774,6 +775,7 @@
 | [0696-count-binary-substrings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0768-partition-labels) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -817,6 +819,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
