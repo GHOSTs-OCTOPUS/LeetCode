@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/rotate-function/">396. Rotate Function</a></h2><h3>Medium</h3><hr><div><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/rotate-function">396. Rotate Function</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>Assume <code>arr<sub>k</sub></code> to be an array obtained by rotating <code>nums</code> by <code>k</code> positions clock-wise. We define the <strong>rotation function</strong> <code>F</code> on <code>nums</code> as follow:</p>
 
@@ -13,7 +13,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [4,3,2,6]
+<pre>
+<strong>Input:</strong> nums = [4,3,2,6]
 <strong>Output:</strong> 26
 <strong>Explanation:</strong>
 F(0) = (0 * 4) + (1 * 3) + (2 * 2) + (3 * 6) = 0 + 3 + 4 + 18 = 25
@@ -25,7 +26,8 @@ So the maximum value of F(0), F(1), F(2), F(3) is F(3) = 26.
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [100]
+<pre>
+<strong>Input:</strong> nums = [100]
 <strong>Output:</strong> 0
 </pre>
 
@@ -37,4 +39,3 @@ So the maximum value of F(0), F(1), F(2), F(3) is F(3) = 26.
 	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
 	<li><code>-100 &lt;= nums[i] &lt;= 100</code></li>
 </ul>
-</div>
