@@ -404,6 +404,7 @@
 | [0396-rotate-function](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0867-new-21-game) |
@@ -586,6 +587,7 @@
 | [0342-power-of-four](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0826-soup-servings) |
 | [0840-magic-squares-in-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0867-new-21-game) |
