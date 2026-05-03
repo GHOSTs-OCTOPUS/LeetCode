@@ -523,6 +523,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1066,5 +1067,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
