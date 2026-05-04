@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0118-pascals-triangle) |
@@ -267,6 +268,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -581,6 +583,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0231-power-of-two) |
