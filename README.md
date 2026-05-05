@@ -805,6 +805,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0768-partition-labels) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -974,6 +975,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0061-rotate-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
