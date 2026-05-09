@@ -68,6 +68,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -290,6 +291,7 @@
 | [1861-rotating-the-box](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -713,6 +715,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2069-walking-robot-simulation-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
