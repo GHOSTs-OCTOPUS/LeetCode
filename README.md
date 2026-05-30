@@ -141,6 +141,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3161-block-placement-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-maximum-score-from-grid-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
@@ -910,6 +911,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2690-house-robber-iv) |
+| [3161-block-placement-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3453-separate-squares-i) |
@@ -1044,6 +1046,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1125,4 +1128,8 @@
 | ------- |
 | [0796-rotate-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
