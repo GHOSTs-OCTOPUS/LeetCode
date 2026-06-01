@@ -87,6 +87,7 @@
 | [2126-destroying-asteroids](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -392,6 +393,7 @@
 | [2092-find-all-people-with-secret](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2126-destroying-asteroids](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -802,6 +804,7 @@
 | [2126-destroying-asteroids](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2573-find-the-string-with-lcp](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2573-find-the-string-with-lcp) |
