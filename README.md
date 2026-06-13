@@ -226,6 +226,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Depth-First Search
 |  |
@@ -636,6 +637,7 @@
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3838-weighted-word-mapping](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -793,6 +795,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
 | ------- |
