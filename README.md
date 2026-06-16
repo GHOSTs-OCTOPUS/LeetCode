@@ -636,6 +636,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3838-weighted-word-mapping](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -793,6 +794,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
