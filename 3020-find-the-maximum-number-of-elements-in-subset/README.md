@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/">3020. Find the Maximum Number of Elements in Subset</a></h2><h3>Medium</h3><hr><div><p>You are given an array of <strong>positive</strong> integers <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset">3299. Find the Maximum Number of Elements in Subset</a></h2><h3>Medium</h3><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code>.</p>
 
 <p>You need to select a <span data-keyword="subset">subset</span> of <code>nums</code> which satisfies the following condition:</p>
 
@@ -11,14 +11,16 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [5,4,1,2,2]
+<pre>
+<strong>Input:</strong> nums = [5,4,1,2,2]
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> We can select the subset {4,2,2}, which can be placed in the array as [2,4,2] which follows the pattern and 2<sup>2</sup> == 4. Hence the answer is 3.
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [1,3,2,4]
+<pre>
+<strong>Input:</strong> nums = [1,3,2,4]
 <strong>Output:</strong> 1
 <strong>Explanation:</strong> We can select the subset {1}, which can be placed in the array as [1] which follows the pattern. Hence the answer is 1. Note that we could have also selected the subsets {2}, {3}, or {4}, there may be multiple subsets which provide the same answer. 
 </pre>
@@ -30,4 +32,3 @@
 	<li><code>2 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
-</div>
