@@ -66,6 +66,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1813-maximum-erasure-value](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -403,6 +404,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -847,6 +849,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
