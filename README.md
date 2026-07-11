@@ -264,6 +264,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -293,6 +294,7 @@
 | [2092-find-all-people-with-secret](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2685-count-the-number-of-complete-components](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1227,6 +1229,7 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1242,6 +1245,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2685-count-the-number-of-complete-components](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String Matching
