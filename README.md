@@ -1109,6 +1109,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1291-sequential-digits) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
