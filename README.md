@@ -746,6 +746,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -974,6 +975,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
 | ------- |
