@@ -1,0 +1,41 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var gcdSum = function(nums) {
+
+    const gcd = (a, b) => {
+        while (b !== 0) {
+            let t = a % b;
+            a = b;
+            b = t;
+        }
+        return a;
+    };
+
+    const n = nums.length;
+
+    const prefixGcd = new Array(n);
+
+    let prefixMax = 0;
+
+    for (let i = 0; i < n; i++) {
+        prefixMax = Math.max(prefixMax, nums[i]);
+        prefixGcd[i] = gcd(nums[i], prefixMax);
+    }
+
+    prefixGcd.sort((a, b) => a - b);
+
+    let ans = 0;
+
+    let left = 0;
+    let right = n - 1;
+
+    while (left < right) {
+        ans += gcd(prefixGcd[left], prefixGcd[right]);
+        left++;
+        right--;
+    }
+
+    return ans;
+};
