@@ -82,6 +82,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -720,6 +721,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -980,6 +982,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
