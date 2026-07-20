@@ -34,6 +34,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1200-minimum-absolute-difference](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -328,6 +329,7 @@
 | [0498-diagonal-traverse](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0854-making-a-large-island) |
+| [1260-shift-2d-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -837,6 +839,7 @@
 | [0498-diagonal-traverse](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
