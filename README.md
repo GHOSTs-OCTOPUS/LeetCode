@@ -26,6 +26,7 @@
 | [0840-magic-squares-in-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0854-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -501,6 +502,7 @@
 | [0799-champagne-tower](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -737,6 +739,7 @@
 | [0826-soup-servings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0826-soup-servings) |
 | [0840-magic-squares-in-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1285,6 +1288,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Combinatorics
 |  |
