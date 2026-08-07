@@ -713,6 +713,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3396-valid-word](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -788,6 +789,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -932,6 +934,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -965,6 +968,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1043,6 +1047,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
