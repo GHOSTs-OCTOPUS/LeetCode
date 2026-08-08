@@ -541,6 +541,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -713,6 +714,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3396-valid-word](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3447-clear-digits) |
@@ -968,6 +970,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1033,6 +1036,7 @@
 | [2540-minimum-common-value](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
