@@ -152,6 +152,7 @@
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -466,6 +467,7 @@
 | [2751-robot-collisions](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -618,6 +620,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
