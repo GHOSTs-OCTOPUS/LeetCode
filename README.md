@@ -105,6 +105,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2262-solving-questions-with-brainpower](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -701,6 +702,7 @@
 | [2140-longest-subsequence-repeated-k-times](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2211-count-collisions-on-a-road) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -1273,6 +1275,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1292,6 +1295,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2429-design-a-food-rating-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
