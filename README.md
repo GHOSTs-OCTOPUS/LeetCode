@@ -52,6 +52,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1386-cinema-seat-allocation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -602,6 +603,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1386-cinema-seat-allocation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -966,6 +968,7 @@
 | [0768-partition-labels](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0768-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1448-maximum-69-number](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -1159,6 +1162,7 @@
 | [0868-binary-gap](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
