@@ -166,6 +166,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3161-block-placement-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3161-block-placement-queries) |
@@ -807,6 +808,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3227-find-missing-and-repeated-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -1077,6 +1079,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1130,6 +1133,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2690-house-robber-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1177,6 +1181,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -1350,6 +1355,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
