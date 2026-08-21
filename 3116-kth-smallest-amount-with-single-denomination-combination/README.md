@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/">3116. Kth Smallest Amount With Single Denomination Combination</a></h2><h3>Hard</h3><hr><div><p>You are given an integer array <code>coins</code> representing coins of different denominations and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination">3375. Kth Smallest Amount With Single Denomination Combination</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>coins</code> representing coins of different denominations and an integer <code>k</code>.</p>
 
 <p>You have an infinite number of coins of each denomination. However, you are <strong>not allowed</strong> to combine coins of different denominations.</p>
 
@@ -27,10 +27,10 @@
     font-size: 0.85rem;
 "> 9</span></p>
 
-<p><strong>Explanation:</strong> The given coins can make the following amounts:<br>
-Coin 3 produces multiples of 3: 3, 6, 9, 12, 15, etc.<br>
-Coin 6 produces multiples of 6: 6, 12, 18, 24, etc.<br>
-Coin 9 produces multiples of 9: 9, 18, 27, 36, etc.<br>
+<p><strong>Explanation:</strong> The given coins can make the following amounts:<br />
+Coin 3 produces multiples of 3: 3, 6, 9, 12, 15, etc.<br />
+Coin 6 produces multiples of 6: 6, 12, 18, 24, etc.<br />
+Coin 9 produces multiples of 9: 9, 18, 27, 36, etc.<br />
 All of the coins combined produce: 3, 6, <u><strong>9</strong></u>, 12, 15, etc.</p>
 </div>
 
@@ -56,9 +56,9 @@ All of the coins combined produce: 3, 6, <u><strong>9</strong></u>, 12, 15, etc.
     font-size: 0.85rem;
 "> 12 </span></p>
 
-<p><strong>Explanation:</strong> The given coins can make the following amounts:<br>
-Coin 5 produces multiples of 5: 5, 10, 15, 20, etc.<br>
-Coin 2 produces multiples of 2: 2, 4, 6, 8, 10, 12, etc.<br>
+<p><strong>Explanation:</strong> The given coins can make the following amounts:<br />
+Coin 5 produces multiples of 5: 5, 10, 15, 20, etc.<br />
+Coin 2 produces multiples of 2: 2, 4, 6, 8, 10, 12, etc.<br />
 All of the coins combined produce: 2, 4, 5, 6, 8, 10, <u><strong>12</strong></u>, 14, 15, etc.</p>
 </div>
 
@@ -71,4 +71,3 @@ All of the coins combined produce: 2, 4, 5, 6, 8, 10, <u><strong>12</strong></u>
 	<li><code>1 &lt;= k &lt;= 2 * 10<sup>9</sup></code></li>
 	<li><code>coins</code> contains pairwise distinct integers.</li>
 </ul>
-</div>
