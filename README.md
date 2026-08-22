@@ -831,6 +831,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3623-count-number-of-trapezoids-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
