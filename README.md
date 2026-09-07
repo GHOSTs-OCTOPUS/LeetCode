@@ -536,6 +536,7 @@
 | [0877-stone-game](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1140-stone-game-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -695,6 +696,7 @@
 | [0761-special-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
