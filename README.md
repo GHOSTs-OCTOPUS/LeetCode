@@ -572,6 +572,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -750,6 +751,7 @@
 | [2429-design-a-food-rating-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -1034,6 +1036,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2573-find-the-string-with-lcp](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1110,6 +1113,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2551-apply-operations-to-an-array) |
