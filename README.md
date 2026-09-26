@@ -82,6 +82,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1840-maximum-building-height](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -484,6 +485,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -848,6 +850,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1840-maximum-building-height](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
