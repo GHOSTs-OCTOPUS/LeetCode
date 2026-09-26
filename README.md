@@ -327,6 +327,7 @@
 | [0820-find-eventual-safe-states](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1096-brace-expansion-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1306-jump-game-iii) |
@@ -472,6 +473,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1096-brace-expansion-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -630,6 +632,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -726,6 +729,7 @@
 | [1006-vowel-spellchecker](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -969,6 +973,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1025,6 +1030,7 @@
 | [0037-sudoku-solver](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0037-sudoku-solver) |
 | [0401-binary-watch](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0756-pyramid-transition-matrix) |
+| [1096-brace-expansion-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
