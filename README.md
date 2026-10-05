@@ -734,6 +734,7 @@
 | [0761-special-binary-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -991,6 +992,7 @@
 | [0032-longest-valid-parentheses](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1580,6 +1582,7 @@
 | [0022-generate-parentheses](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
