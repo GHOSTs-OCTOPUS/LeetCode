@@ -323,6 +323,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0684-redundant-connection) |
@@ -726,6 +727,7 @@
 | [0032-longest-valid-parentheses](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -1055,6 +1057,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/0756-pyramid-transition-matrix) |
 | [1096-brace-expansion-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1096-brace-expansion-ii) |
