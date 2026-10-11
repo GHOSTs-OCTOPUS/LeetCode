@@ -158,6 +158,7 @@
 | [2751-robot-collisions](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2751-robot-collisions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -1380,6 +1381,7 @@
 | [1925-count-square-sum-triples](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
