@@ -930,6 +930,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -1136,6 +1137,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
