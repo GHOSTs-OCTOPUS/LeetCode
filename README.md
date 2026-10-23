@@ -259,6 +259,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -1356,6 +1357,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
