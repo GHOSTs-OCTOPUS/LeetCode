@@ -811,6 +811,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -905,6 +906,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2409-count-days-spent-together](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
