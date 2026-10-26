@@ -248,6 +248,7 @@
 | [3606-coupon-code-validator](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3620-network-recovery-pathways](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -334,6 +335,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -367,6 +369,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union Find
 |  |
@@ -432,6 +435,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1597,6 +1601,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String Matching
 |  |
 | ------- |
