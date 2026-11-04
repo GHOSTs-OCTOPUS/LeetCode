@@ -224,6 +224,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -639,6 +640,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -735,6 +737,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -952,6 +955,7 @@
 | [3433-count-mentions-per-user](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1290,6 +1294,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1428,6 +1433,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3620-network-recovery-pathways](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3620-network-recovery-pathways) |
