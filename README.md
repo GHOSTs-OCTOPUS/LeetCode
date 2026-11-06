@@ -160,6 +160,7 @@
 | [2689-rearranging-fruits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2747-count-zero-request-servers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2751-robot-collisions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -538,6 +539,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2747-count-zero-request-servers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -720,6 +722,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2747-count-zero-request-servers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1293,6 +1296,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2747-count-zero-request-servers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
