@@ -214,6 +214,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3429-special-array-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1085,6 +1086,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2751-robot-collisions](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2751-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3447-clear-digits](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -1312,6 +1314,7 @@
 | [2747-count-zero-request-servers](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1419,6 +1422,7 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Shortest Path
@@ -1436,6 +1440,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1536,6 +1541,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
@@ -1611,6 +1617,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Line Sweep
 |  |
