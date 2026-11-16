@@ -851,6 +851,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -1113,6 +1114,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2211-count-collisions-on-a-road](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/GHOSTs-OCTOPUS/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
