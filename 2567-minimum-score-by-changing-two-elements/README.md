@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-score-by-changing-two-elements/">2567. Minimum Score by Changing Two Elements</a></h2><h3>Medium</h3><hr><div><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-score-by-changing-two-elements">2706. Minimum Score by Changing Two Elements</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <ul>
 	<li>The <strong>low</strong> score of <code>nums</code> is the <strong>minimum</strong> absolute difference between any two integers.</li>
@@ -48,4 +48,3 @@
 	<li><code>3 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
-</div>
